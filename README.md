@@ -8,7 +8,7 @@
 <h3 align="center">🚀 𝐓𝐞𝐜𝐡 𝐄𝐱𝐩𝐥𝐨𝐫𝐞𝐫  |  💻𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐋𝐞𝐚𝐫𝐧𝐞𝐫 |  🎓𝐂𝐒𝐄+𝐀𝐈 𝐒𝐭𝐮𝐝𝐞𝐧𝐭</h3>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=✨+Frontend+Developer+%7C+Creative+Coder;🎨+UI%2FUX+Enthusiast+%7C+Responsive+Designs;🌱+Always+Learning+%26+Improving;🤝+Open+to+Collaborations" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=✨+Frontend+Developer+%7C+Creative+Coder;🎨+UI%2FUX+Enthusiast+%7C+Responsive+Designs;🌱+Always+Learning+%26+Improving" alt="Typing Animation">
 </h3>
 
 ---
@@ -42,20 +42,13 @@
 ### 🧩 Frontend Tools & Technologies
 
 <p align="left">
-  <!-- Core Frontend -->
+  <!-- Frontend & Web -->
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-  <!-- Design & UI/UX -->
-  <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-
-  <!-- Programming & Logic -->
+  <!-- Programming & Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Erlang-a90533.svg?style=for-the-badge&logo=erlang&logoColor=white" />
@@ -64,9 +57,12 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
-  <!-- Dev Tools & Cloud -->
+  <!-- DevOps & Platform -->
   <img src="https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
+
+  <!-- Design & UI -->
+  <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
@@ -78,5 +74,3 @@
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="Design and Code">
 </p>
-
-
