@@ -1,11 +1,11 @@
-<!-- Small Top Banner -->
+<!-- 🚀 Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="200" alt="Frontend Coding Banner">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="200" alt="Frontend Coding Banner">
 </p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#FF6EC7">Sonali</span></h1>
 
-<h3 align="center">🚀 𝐓𝐞𝐜𝐡 𝐄𝐱𝐩𝐥𝐨𝐫𝐞𝐫  |  💻𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐋𝐞𝐚𝐫𝐧𝐞𝐫 |  🎓𝐂𝐒𝐄+𝐀𝐈 𝐒𝐭𝐮𝐝𝐞𝐧𝐭</h3>
+<h3 align="center">🚀 𝐓𝐞𝐜𝐡 𝐄𝐱𝐩𝐥𝐨𝐫𝐞𝐫 | 💻 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐋𝐞𝐚𝐫𝐧𝐞𝐫 | 🎓 𝐂𝐒𝐄+𝐀𝐈 𝐒𝐭𝐮𝐝𝐞𝐧𝐭</h3>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=500&lines=✨+Frontend+Developer+%7C+Creative+Coder;🎨+UI%2FUX+Enthusiast+%7C+Responsive+Designs;🌱+Always+Learning+%26+Improving" alt="Typing Animation">
@@ -15,11 +15,10 @@
 
 ### 🌟 About Me
 
-- 🎓 AI-focused Computer Science undergraduate  
-- 💻 Focused on **Frontend Development** – HTML, CSS, JavaScript, React  
-- 🎨 Passionate about creating **responsive, user-friendly interfaces**  
-- 📚 Currently exploring UI/UX design, JavaScript frameworks, and CSS animations  
-- 🌱 Always learning and building creative web experiences  
+- 🎓 CSE + AI student passionate about **Frontend Development**  
+- 💻 Learning HTML, CSS, JavaScript, and UI/UX design  
+- 🌱 Exploring tools like Figma, Canva & building responsive interfaces  
+- 🌍 Interested in tech for social impact and real-world solutions  
 
 ---
 
@@ -35,6 +34,9 @@
   <a href="https://auth.geeksforgeeks.org/user/sonali2mlqs" target="_blank">
     <img src="https://img.shields.io/badge/GeeksForGeeks-%2300FF00.svg?&style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
+  <a href="mailto:sonali2006jha@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -42,32 +44,44 @@
 ### 🧩 Frontend Tools & Technologies
 
 <p align="left">
-  <!-- Frontend & Web -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <!-- Web & Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
-  <!-- Programming & Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Erlang-a90533.svg?style=for-the-badge&logo=erlang&logoColor=white" />
+  <!-- Programming -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Erlang-a90533?style=for-the-badge&logo=erlang&logoColor=white" />
 
   <!-- Databases -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
-  <!-- DevOps & Platform -->
-  <img src="https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
-
-  <!-- Design & UI -->
-  <img src="https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
 
+### 🔥 My GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sonalijha13&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonalijha13&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonalijha13&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 
 ### ⚡ Fun Fact
 
