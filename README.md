@@ -15,8 +15,9 @@
 
 ### 🌟 About Me
 
-- 🎓 CSE + AI student passionate about **Frontend Development**  
-- 💻 Learning HTML, CSS, JavaScript, and UI/UX design  
+- 🎓 AI-focused Computer Science undergraduate.
+-📊 Currently learning Python through online platforms and hands-on projects.
+-🛠️ Exploring DSA, AI/ML, and backend deployment.
 - 🌱 Exploring tools like Figma, Canva & building responsive interfaces  
 - 🌍 Interested in tech for social impact and real-world solutions  
 
