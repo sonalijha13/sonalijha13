@@ -14,12 +14,15 @@
 ---
 
 ### 🌟 About Me
+🎓 AI-focused Computer Science undergraduate.
 
-- 🎓 AI-focused Computer Science undergraduate.
--📊 Currently learning Python through online platforms and hands-on projects.
--🛠️ Exploring DSA, AI/ML, and backend deployment.
-- 🌱 Exploring tools like Figma, Canva & building responsive interfaces  
-- 🌍 Interested in tech for social impact and real-world solutions  
+📊 Currently learning Python through online platforms and hands-on projects.
+
+🛠️ Exploring DSA, AI/ML, and backend deployment.
+
+🌱 Exploring tools like Figma, Canva & building responsive interfaces.
+
+ 🌍 Interested in tech for social impact and real-world solutions. 
 
 ---
 
@@ -64,6 +67,11 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+
+<!-- CS Concepts -->
+  <img src="https://img.shields.io/badge/DSA-Fundamentals-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-E53935?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-black?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
 ---
