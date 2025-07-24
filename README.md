@@ -18,7 +18,7 @@
 
 📊 Currently learning Python through online platforms and hands-on projects.
 
-🛠️ Exploring DSA, AI/ML, and backend deployment.
+🛠️ Exploring DSA, AI/ML, and backend development.
 
 🌱 Exploring tools like Figma, Canva & building responsive interfaces.
 
